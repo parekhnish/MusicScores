@@ -16,10 +16,10 @@
      \key c \major
      \time 4/4
 
-     \override Score.RehearsalMark.self-alignment-X = #LEFT
-    \override Score.BarNumber.break-visibility = #all-invisible
-%    \override Score.RehearsalMark.padding = #-2
-    \once \override Score.RehearsalMark.X-offset = #5  % td
+    % This is for the placement of the Swing notation symbol
+    \override Score.RehearsalMark.padding = #-2
+    \once \override Score.RehearsalMark.X-offset = #15  % td
+    \once \override Score.RehearsalMark.Y-offset = #5  % td
      \rhythmMark #"Swing" \rhyMarkIIEighths \rhyMarkTriplets
 
      \partial 2
@@ -33,6 +33,7 @@
      \clef bass
      \key c \major
      \time 4/4
+
      \partial 2
      r2 |
      c,4 <g' c>4\staccato r2 |
