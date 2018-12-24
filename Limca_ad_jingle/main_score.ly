@@ -24,8 +24,10 @@
 
      \partial 2
      r8 g8( e'8 d8) |
-     f8 e8\staccato r4. g,8( d'8 c8) |
-     b8 c8\staccato r2.
+     f8 e4 r4 g,8( d'8 c8) |
+     b8 c4 r4 d8( e8 d8) |
+     a'8 e4 r4 d8( e16 d16 c8) |
+     b8 c4 r8 r2 |
 
    }
 
@@ -36,8 +38,10 @@
 
      \partial 2
      r2 |
-     c,4 <g' c>4\staccato r2 |
-     c,4 <g' c>4\staccato r2 |
+     c,4 e8 <e g>8\staccato r2 |
+     g,4 b8 <c e>8\staccato r2 |
+     c,4 f8 <f a>8\staccato r2 |
+     b,4 g8 <c e>8\staccato r2 |
    }
  >>
 
