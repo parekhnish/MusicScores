@@ -6,7 +6,8 @@ The repository mainly contains Lilypond files needed to generate the score, with
 
 ## Structure
 
-Each top-level folder in this repository contains files for a piece of music. 
+- `Drafts`: This folder contains scores in progress.
+- `_resources`: This folder contains snippets and other Lilypond files that are meant to be shared across the main scores as imports.
 
 _TODO_: Define a proper structure inside each of these folders
 
