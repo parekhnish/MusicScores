@@ -19,9 +19,9 @@
      b8 c8 r4 r8 d8( e8 d8) |
      g8 e8 r4 r8 d8( \tuplet 3/2 {e8 d c)} |
      b8 c8 r2 d8 c8 |
-     b8 c4 d4 e8 d8 c8 |
-     b8 c8 r2 d8 c8 |
-     b8 c4 c8 d4~ d8 d8 |
+     b8( c4 d4 e8 d8 c8 |
+     b8 c8) r2 d8( c8 |
+     b8 c4) c8( d4~ d8 d8) |
      e4 e8 d8~ d4 r4 |
 
    }
