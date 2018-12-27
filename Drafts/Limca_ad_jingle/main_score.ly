@@ -15,10 +15,14 @@
 
      \partial 2
      r8 g8( e'8 d8) |
-     f8 e4 r4 g,8( d'8 c8) |
-     b8 c4 r4 d8( e8 d8) |
-     a'8 e4 r4 d8( \tuplet 3/2 {e8 d c)} |
-     b8 c4 r8 r2 |
+     f8 e8 r4 r8 g,8( d'8 c8) |
+     b8 c8 r4 r8 d8( e8 d8) |
+     g8 e8 r4 r8 d8( \tuplet 3/2 {e8 d c)} |
+     b8 c8 r2 d8 c8 |
+     b8 c4 d4 e8 d8 c8 |
+     b8 c8 r2 d8 c8 |
+     b8 c4 c8 d4~ d8 d8 |
+     e4 e8 d8~ d4 r4 |
 
    }
 
@@ -33,6 +37,10 @@
      g,4 b8 <c e>8\staccato r2 |
      c4 f8 <f a>8\staccato r2 |
      b,4 g8 <c e>8\staccato r2 |
+     g4 g'4 d'4 r4 |
+     b,4 g'8 <c, g' c>8\staccato r2 |
+     f,4 c'4 g4 d'4 |
+     c4 g'8 d'8~ d4 r4 |
    }
  >>
 
