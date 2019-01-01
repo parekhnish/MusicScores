@@ -52,7 +52,7 @@ lhIntro = {
   <f c' f>1 |
   r8 g8_[ b8 \macroStaffUp d8 g8] \macroStaffDn r8 r4 |
   \macroStaffUp c,4 g'8 c8 \macroStaffDn r2 |
-  \macroStaffUp a,4 d8 a'8 \macroStaffDn r2 |
+  \macroStaffUp a,4 e'8 a8 \macroStaffDn r2 |
   f,4 c'8 \macroStaffUp f8 \macroStaffDn r2 |
   g,8_[ b8 \macroStaffUp d8 g8] \macroStaffDn
   \stemNeutral
@@ -124,7 +124,7 @@ lhVerseOne = {
   \new PianoStaff <<
     \new Staff = "up" {
       <<
-      \tempo "With a bright Swing feel" 4 = 108
+      \tempo "With a bright Swing feel" 4 = 120
       \clef treble
       \key c \major
       \time 4/4
