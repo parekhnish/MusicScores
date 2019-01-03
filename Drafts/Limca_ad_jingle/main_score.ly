@@ -69,12 +69,12 @@ rhChorusOne = {
   g8 a8 b8 \tieUp c8~ |
   c4 \tieNeutral e,4 f4~ f8 g8~ |
   g4 r8 g4 a8 b8 \tieUp c8~ |
-  c4 \tieNeutral e,4 f4~ f8 g8~ |
+  c4 \tieNeutral e,4 f4~ a8 g8~ |
   g2 g8 a8 b8 \tieUp c8~ |
   c4 \tieNeutral e,4 f4~ f8 g8~ |
   g4 r8 g4 a8 b8 \tieUp c8~ |
   c4 \tieNeutral e,4 f4~ f8 g8~ |
-  g4 e8 d8 c8\staccato \stemNeutral
+  g8 f8[ e8 d8 c8]\staccato \stemNeutral
 }
 
 lhChorusOne = {
