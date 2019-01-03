@@ -32,10 +32,10 @@ rhIntro = {
   \partial 4
   \stemUp
   g'8 e8 |
+  d8 e2 g4 e8 |
   d8 e8~ e2 g8 e8 |
-  d8 e8~ e2 g8 e8 |
-  d8 e4 e8 f4 e4 |
-  d2~ d8 g4 e8 |
+  d8 e4 e8 f4 e8 d8~ |
+  d4 r4 r8 g4 e8 |
   d8 e2 a4 e8 |
   d8 e2 g4 e8 |
   d8 e4 e8 f4 e8 d8~|
