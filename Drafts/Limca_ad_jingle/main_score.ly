@@ -69,7 +69,7 @@ rhChorusOne = {
   g8 a8 b8 \tieUp c8~ |
   c4 \tieNeutral e,4 f4~ f8 g8~ |
   g4 r8 g4 a8 b8 \tieUp c8~ |
-  c4 \tieNeutral e,4 f4~ a8 g8~ |
+  c4 \tieNeutral e,4 f4 a8 g8~ |
   g2 g8 a8 b8 \tieUp c8~ |
   c4 \tieNeutral e,4 f4~ f8 g8~ |
   g4 r8 g4 a8 b8 \tieUp c8~ |
@@ -84,10 +84,10 @@ lhChorusOne = {
   <g d' g>2 r2 |
   \macroStaffUp <c g' c>2 \macroStaffDn <f, c' f>2 |
   <g d' g>2 r2 |
-  \macroStaffUp <c g' c>2 \macroStaffDn <f, c' f>2 |
-  <g d' g>2 r2 |
-  \macroStaffUp <c g' c>2 \macroStaffDn <f, c' f>2 |
-  <g d' g>2
+  \macroStaffUp c4 <g' c>4 \macroStaffDn f,4 <c' f>4 | % TODO: RH and LH very close, in same column: Find a way to horizontally shift the notes
+  g4 <d' g>4 r2 |
+  \macroStaffUp c4 <g' c>4 \macroStaffDn f,4 <c' f>4 | % TODO: Same as above
+  g4 d'4 g8\staccato
   \stemNeutral
 }
 
@@ -109,7 +109,7 @@ rhVerseOne = {
 }
 
 lhVerseOne = {
-  r2 |
+  r8 r4 |
   c,4 e8 <e g>8\staccato r2 |
   g,4 b8 <c e>8\staccato r2 |
   c4 f8 <f a>8\staccato r2 |
