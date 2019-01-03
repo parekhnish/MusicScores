@@ -110,7 +110,7 @@ rhVerseOne = {
 
 lhVerseOne = {
   r8 r4 |
-  c,4 e8 <e g>8\staccato r2 |
+  c,,4 e8 <e g>8\staccato r2 |
   g,4 b8 <c e>8\staccato r2 |
   c4 f8 <f a>8\staccato r2 |
   b,4 g8 <c e>8\staccato r2 |
