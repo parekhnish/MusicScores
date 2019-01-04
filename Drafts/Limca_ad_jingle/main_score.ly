@@ -50,11 +50,11 @@ lhIntro = {
   r4 r8 \macroStaffUp <c g' c>4 \macroStaffDn r8 r4 |
   r4 r8 \macroStaffUp <b g' b>4 \macroStaffDn r8 r4 |
   <f c' f>1 |
-  r8 g8_[ b8 \macroStaffUp d8 g8] \macroStaffDn r8 r4 |
+  r8 g8_[ b8 d8 g8] r8 r4 |
   \macroStaffUp c,4 g'8 c8 \macroStaffDn r2 |
   \macroStaffUp a,4 e'8 a8 \macroStaffDn r2 |
-  f,4 c'8 \macroStaffUp f8 \macroStaffDn r2 |
-  g,8_[ b8 \macroStaffUp d8 g8] \macroStaffDn
+  f,4 c'8 f8 r2 |
+  g,8 b8 d8 g8
   \stemNeutral
 }
 
