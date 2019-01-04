@@ -120,6 +120,45 @@ lhVerseOne = {
   c4 g'8 d'8
 }
 
+
+% ====================
+% Chorus 2
+% ====================
+
+rhChorusTwo = {
+  \stemUp
+  r8 g8 a8 b8 |
+  c4 e,4 f4~ f8 g8~ |
+  g4 r8 g4 a8 b8 \tieUp c8~ |
+  c4 \tieNeutral e,4 f4 a8 g8~ |
+  g2 g8 a8 b8 \tieUp c8~ |
+  c4 \tieNeutral e,4 f4~ f8 g8~ |
+  g4 r8 f'8[ e8 d8 c8 b8] |
+  c4 e,4 f4~ f8 g8~ |
+  g4 e8 d8 c8\staccato
+  \stemNeutral
+}
+
+lhChorusTwo = {
+  \stemDown
+  r2 |
+  \macroStaffUp c8 g'8 c8 \macroStaffDn r8 f,,8 c'8 f8 r8 |
+  g,8 d'8 g8 r8 r2 |
+  \macroStaffUp c,8 g'8 c8 \macroStaffDn r8 f,,8 c'8 f8 r8 |
+  g,8 d'8 g8 r8 r2 |
+  \macroStaffUp c,8 g'8 c8 \macroStaffDn r8 f,,8 c'8 f8 r8 |
+  g,8 d'8 g8 r8 r2 |
+  \macroStaffUp c,8 g'8 c8 \macroStaffDn r8 f,,8 c'8 f8 r8 |
+  g,4 b4 c8\staccato
+  \stemNeutral
+}
+
+
+
+% ------------------------------------------------------------------------------
+% BRING IT ALL TOGETHER
+% ------------------------------------------------------------------------------
+
 \score{
   \new PianoStaff <<
     \new Staff = "up" {
@@ -133,6 +172,7 @@ lhVerseOne = {
         \rhIntro
         \rhChorusOne
         \rhVerseOne
+        \rhChorusTwo
       }
 
       >>
@@ -147,6 +187,7 @@ lhVerseOne = {
         \lhIntro
         \lhChorusOne
         \lhVerseOne
+        \lhChorusTwo
       }
     }
   >>
