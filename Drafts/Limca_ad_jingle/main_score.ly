@@ -154,6 +154,41 @@ lhChorusTwo = {
 }
 
 
+% ====================
+% Chorus 4
+% ====================
+
+rhChorusFour = {
+  \stemUp
+  r8 g'8 a8 b8 |
+  c8\staccato r4 e,8[ f8]\staccato r4 g8~ |
+  g2 r8 g8[ a8 b8] |
+  c8\staccato r4 e,8[ f8]\staccato r8 a8 g8~ |
+  g2 r8 g8[ a8 b8] |
+  c8\staccato r4 e,8[ f8]\staccato r4 g8~ |
+  g2 r8 g8[ a8 b8] |
+  c8\staccato r4 e,8[ f8]\staccato r4 g8~ |
+  g2 r8
+  \stemNeutral
+}
+
+
+lhChorusFour = {
+  \stemDown
+  r2 |
+  \macroStaffUp <c g' c>8\staccato \macroStaffDn r8 r4 <f, c' f>8\staccato r8 r4 |
+  <g d' g>1 |
+  \macroStaffUp c8 <g' c>8\staccato \macroStaffDn r4 f,8 <c' f>8\staccato r4 |
+  g4 <d' g>2. |
+  \macroStaffUp c8 g'8 c8\staccato \macroStaffDn r8 f,,8 c'8 f8\staccato r8 |
+  g,8 d'8 g2. |
+  \macroStaffUp <c, g'>4 <c g'>4 \macroStaffDn <f, c'>4 <f c'>4 |
+  <g d'>4 <g d'>4 <g d'>8
+  \stemNeutral
+}
+
+
+
 
 % ------------------------------------------------------------------------------
 % BRING IT ALL TOGETHER
@@ -173,6 +208,10 @@ lhChorusTwo = {
         \rhChorusOne
         \rhVerseOne
         \rhChorusTwo
+        r8 r4
+        r1 |
+        r2
+        \rhChorusFour
       }
 
       >>
@@ -188,6 +227,11 @@ lhChorusTwo = {
         \lhChorusOne
         \lhVerseOne
         \lhChorusTwo
+        r8 r4 |
+        r1 |
+        r2
+        \lhChorusFour
+
       }
     }
   >>
