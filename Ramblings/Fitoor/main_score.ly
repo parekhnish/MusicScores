@@ -15,11 +15,11 @@
 % ====================
 
 rhIntro = {
-  fis4 a4 cis4 |
-  b4 gis4 e4 |
-  fis4 a4 cis4 |
+  fis4( a4 cis4 |
+  b4 gis4 e4) |
+  fis4( a4 cis4 |
   b4 gis4 fis8 gis8 |
-  a2 gis4 |
+  a2) gis4 |
   b2 e,4 |
   fis2.~ |
   fis2. |
