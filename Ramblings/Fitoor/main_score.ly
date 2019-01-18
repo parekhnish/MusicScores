@@ -29,15 +29,15 @@ rhIntro = {
 
 lhIntro = {
   fis,4 cis'4 fis4 |
-  gis,2. |
+  e4 b4 gis4 |
   fis4 cis'4 fis4 |
-  gis,2. |
-  fis4 a4 cis4 |
-  gis4 b2 |
+  e4 b4 gis4 |
+  cis,4 fis4 a4 |
+  e4 gis4 b4 |
   fis4 gis4 a4 |
   e'4 gis,4 a4 |
-  fis4 gis4 a4 |
-  e'4 gis,4 a4 |
+  e4 gis4 a4 |
+  e'4 gis,4 e4 |
 }
 
 
