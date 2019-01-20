@@ -55,6 +55,16 @@ rhVerseOne = {
   a2 a4 gis4 b8 a8 gis8 e8 |
   fis2 fis4 fis2. |
   r1 r2 |
+
+  fis4 fis4 cis'4 b4 a4. fis8 |
+  fis4 fis4 cis'4 b4 a4. b8 |
+  b4 b4. b8 e,4 fis2 |
+  r1 r2 |
+  fis4 fis4 cis'4 b8 a8 gis8 a8 gis8 e8 |
+  fis4 fis4 b8 cis8 b4 a4. b8 |
+  b4 b4. b8 e,4 fis2 |
+  r4 fis4 gis4 a4 r2 |
+
 }
 
 lhVerseOne = {
@@ -66,7 +76,20 @@ lhVerseOne = {
   fis,,4 cis'4 fis4 e'4 b4 gis4 |
   fis4 gis4 a4 e'4 gis,4 a4 |
   e4 gis4 a4 e'4 gis,4 e4 |
+
+  fis4 a4 cis4 fis2. |
+  fis,4 b4 dis4 fis2. |
+  e,4 gis4 b4 r4 r8 fis8 gis8 a8 |
+  e'4 r8 e,8 gis8 a8 e'4 r2 |
+  fis,4 a4 cis4 fis2. |
+  fis,4 b4 dis4 fis2. |
+  e,4 gis4 b4 r4 r8 fis8 gis8 a8 |
+  e'1 r2 |
 }
+
+
+
+
 % ------------------------------------------------------------------------------
 % BRING IT ALL TOGETHER
 % ------------------------------------------------------------------------------
