@@ -41,6 +41,32 @@ lhIntro = {
 }
 
 
+
+% ====================
+% Verse 1
+% ====================
+
+rhVerseOne = {
+  a2 a4 gis4 b4 r4 |
+  a2 a4 gis4 b4 e,4 |
+  fis2 fis4 fis2. |
+  r1 r2 |
+  a2 a4 gis4 b4 r4 |
+  a2 a4 gis4 b8 a8 gis8 e8 |
+  fis2 fis4 fis2. |
+  r1 r2 |
+}
+
+lhVerseOne = {
+  fis,4 cis'4 fis4 e4 gis4 r4 |
+  fis,4 cis'4 fis4 b4 e4 r4 |
+  fis,4 gis4 a4 e'4 gis,4 a4 |
+  e4 gis4 a4 e'4 gis,4 e4 |
+  fis,4 cis'4 fis4 b4 e4 r4 |
+  fis,,4 cis'4 fis4 e'4 b4 gis4 |
+  fis4 gis4 a4 e'4 gis,4 a4 |
+  e4 gis4 a4 e'4 gis,4 e4 |
+}
 % ------------------------------------------------------------------------------
 % BRING IT ALL TOGETHER
 % ------------------------------------------------------------------------------
@@ -56,6 +82,7 @@ lhIntro = {
 
       \relative c'' {
         \rhIntro
+        \rhVerseOne
       }
 
       >>
@@ -68,6 +95,7 @@ lhIntro = {
 
       \relative c' {
         \lhIntro
+        \lhVerseOne
       }
     }
   >>
