@@ -103,7 +103,7 @@ lhVerseOne = {
       \key fis \minor
       \time 6/4
 
-      \relative c'' {
+      \relative c' {
         \rhIntro
         \rhVerseOne
       }
