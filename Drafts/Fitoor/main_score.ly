@@ -22,7 +22,7 @@ rhIntro = {
   r1 r2 |
   fis4( a4 cis4 b8 a8 gis8 a8 gis8 e8) |
   fis4( a4 cis4 b4 a8 gis8 fis8 gis8 |
-  a2) gis4 b4. a8 gis8 e8 |
+  a4) r8 b8 a8 gis8 b4 r8 a8 gis8 e8 |
   fis1. |
   r1 r2 |
 }
