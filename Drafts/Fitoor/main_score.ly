@@ -24,7 +24,7 @@ rhIntro = {
   fis4( a4 cis4 b4 a8 gis8 fis8 gis8 |
   a4) r8 b8 a8 gis8 b4 r8 a8 gis8 e8 |
   fis1. |
-  r1 r2 |
+  r1 r4.
 }
 
 lhIntro = {
@@ -47,14 +47,15 @@ lhIntro = {
 % ====================
 
 rhVerseOne = {
-  a2 a4 gis4 b4 r4 |
-  a2 a4 gis4 b4 e,4 |
+  cis8 |
+  a'2 a4 gis4 b4 r4 |
+  a2 a4 gis4 b4 r8 e,8 |
   fis2 fis4 fis2. |
-  r1 r2 |
-  a2 a4 gis4 b4 r4 |
+  r1 r4. cis8 |
+  a'2 a4 gis4 b4 r8 a16 gis16|
   a2 a4 gis4 b8 a8 gis8 e8 |
-  fis2 fis4 fis2. |
-  r1 r2 |
+  fis2 fis4 fis4 gis8 a8 gis8 a8 |
+  gis4. a8 gis8 a8 gis2. |
 
   fis4 fis4 cis'4 b4 a4. fis8 |
   fis4 fis4 cis'4 b4 a4. b8 |
@@ -71,13 +72,13 @@ lhVerseOne = {
   fis,4 cis'4 fis4 e4 gis4 r4 |
   fis,4 cis'4 fis4 b4 e4 r4 |
   fis,4 gis4 a4 e'4 gis,4 a4 |
-  e4 gis4 a4 e'4 gis,4 e4 |
-  fis,4 cis'4 fis4 b4 e4 r4 |
+  e4 gis4 a4 e'2. |
+  fis,,4 cis'4 fis4 b4 e4 r4 |
   fis,,4 cis'4 fis4 e'4 b4 gis4 |
   fis4 gis4 a4 e'4 gis,4 a4 |
-  e4 gis4 a4 e'4 gis,4 e4 |
+  e4 gis4 a4 e'2. |
 
-  fis4 a4 cis4 fis2. |
+  fis,4 a4 cis4 fis2. |
   fis,4 b4 dis4 fis2. |
   e,4 gis4 b4 r4 r8 fis8 gis8 a8 |
   e'4 r8 e,8 gis8 a8 e'4 r2 |
