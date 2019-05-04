@@ -1,8 +1,9 @@
 \version "2.19.82"
 
 \header{
- title = "फितूर"
- composer = "Arranged by Nishit Parekh"
+ title = "Fitoor (फितूर)"
+ composer = "Original by Amit Trivedi"
+ arranger = "Arranged by Nishit Parekh"
 }
 
 
