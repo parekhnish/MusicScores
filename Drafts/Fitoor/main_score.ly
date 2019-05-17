@@ -105,23 +105,27 @@ rhChorusOne = {
   b2. r4 a4 b4 |
   e4 cis4. b8 e4 cis4. b16 a16 |
   b2~ b8 cis8 b8 a8 gis8 a8 gis8 e8 |
-  cis4 fis1 r4 |
-  r1 r2 |
+  cis4 fis2 r4 e2 |
+  r1 a4 fis4 |
+  r1 b2 |
+  r2 cis4 a4 fis2 |
 
 }
 
 lhChorusOne = {
   r2 |
-  fis,,4 cis'8 fis8 a8 cis8 fis2 r4 |
-  e,,4 b'8 e8 gis8 b8 e2 r4 |
-  a,,4 e'4 a4 a,4 e'4 a4 |
-  b,8 dis8 fis8 b8 dis8 fis8 b2. |
-  fis,,4 cis'8 fis8 a8 cis8 fis2 r4 |
-  e,,4 b'8 e8 gis8 b8 e2 r4 |
-  a,,8 cis8 e8 a4. a,8 cis8 e8 a4. |
-  e8 gis8 b8 e8~ e1 |
+  fis,,4 cis'4 fis4 a2. |
+  e,4 b'4 e4 gis2. |
+  a,4 e'4 a4 cis2. |
+  b,4 dis4 fis4 b2. |
+  fis,4 cis'4 fis4 a4 cis4 fis4 |
+  e,,4 b'4 e4 gis4 b4 e4 |
+  a,,4 cis4 e4 a4 e4 cis4 |
+  e4 gis4 b4 e2. |
   cis,4 fis4 gis4 a4 e'2 |
-  b,4 e4 gis4 a4 e'2 |
+  b,4 e4 gis4 a2. |
+  cis,4 fis4 gis4 a4 e'2 |
+  b,4 e4 gis4 a2. |
 }
 
 
