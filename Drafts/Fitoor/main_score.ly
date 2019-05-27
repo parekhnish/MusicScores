@@ -122,9 +122,9 @@ lhChorusOne = {
   e,,4 b'4 e4 gis4 b4 e4 |
   a,,4 cis4 e4 a4 e4 cis4 |
   e4 gis4 b4 e2. |
-  cis,4 fis4 gis4 a4 e'2 |
+  cis,4 fis4 gis4 a2. |
   b,4 e4 gis4 a2. |
-  cis,4 fis4 gis4 a4 e'2 |
+  cis,4 fis4 gis4 a2. |
   b,4 e4 gis4 a2. |
   cis,4 fis4 a4 <cis, fis a cis>4\marcato r2 |
 }
@@ -193,9 +193,57 @@ lhBridge = {
   <fis fis'>4 <fis fis'>1 r4 |
   <gis gis'>4 <gis gis'>1 r4 |
   <fis cis' fis>2 <fis cis' fis>4 <fis cis' fis>2 <fis cis' fis>4 |
-  <fis cis' fis>1
+  <fis cis' fis>1 r2 |
 }
 
+
+
+% ====================
+% Chorus 2
+% ====================
+
+rhChorusTwo = {
+  cis4 e4 |
+  fis2. fis4 e4. cis8 |
+  b2. r4 a4 b4 |
+  e4 cis4. b8 e4 cis4. b8 |
+  cis16 dis8.~ dis2 dis4 cis4 e4 |
+  fis2~ fis8 gis8 a8 gis8 fis8 e8 d8 cis8 |
+  b2. r4 a4 b4 |
+  e4 cis4. b8 e4 cis4. b8 |
+  cis16 dis8.~ dis2 dis4 cis4 e4 |
+  fis2. fis4 e4. cis8 |
+  b2 r8 b8 cis8 d8 cis8 b8 a8 b8 |
+  e4 cis4. b8 e4 cis4. b16 a16 |
+  b2~ b8 cis8 b8 a8 gis8 a8 gis8 e8 |
+  cis4 fis2 r4 e2 |
+  r1 a4 fis4 |
+  r1 b2 |
+  r2 cis4 a4 fis2 |
+  <fis a cis>1~ <fis a cis>2 |
+
+
+}
+
+lhChorusTwo = {
+  fis4 cis'8 fis8 a8 cis8 fis2 r4 |
+  e,,4 b'8 e8 gis8 b8 e2 r4 |
+  a,,4 cis4 e4 a4 e4 cis4 |
+  b4 dis4 fis4 b2 r4 |
+  fis,4 cis'8 fis8 a8 cis8 fis2 r4 |
+  e,,4 b'8 e8 gis8 b8 e2 r4 |
+  a,,4 cis4 e4 a4 e4 cis4 |
+  b8 dis8 fis8 b8 dis8 fis8 b2 r4 |
+  fis,,4 cis'4 fis4 a4 cis4 fis4 |
+  e,,4 b'4 e4 gis4 b4 e4 |
+  a,4 cis4 e4 a4 e4 cis4 |
+  b4 e4 gis4 r4 r2 |
+  cis,,4 fis4 gis4 a2. |
+  b,4 e4 gis4 a2. |
+  cis,4 fis4 gis4 a2. |
+  b,4 e4 gis4 a2. |
+  <cis, fis cis'>1~ <cis fis cis'>2 |
+}
 
 
 % ------------------------------------------------------------------------------
@@ -216,6 +264,7 @@ lhBridge = {
         \rhVerseOne
         \rhChorusOne
         \rhBridge
+        \rhChorusTwo
       }
 
       >>
@@ -231,6 +280,7 @@ lhBridge = {
         \lhVerseOne
         \lhChorusOne
         \lhBridge
+        \lhChorusTwo
       }
     }
   >>
