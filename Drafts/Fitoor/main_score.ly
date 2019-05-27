@@ -136,6 +136,7 @@ lhChorusOne = {
 % ====================
 
 rhBridge = {
+  %--- Part 1
   cis8 |
   e8 cis8 e8 fis8~ fis1 |
   r2 r8 cis'8 b2 r8 a8 |
@@ -145,9 +146,20 @@ rhBridge = {
   r4 fis8 gis8 a8 cis8 b2 r8 a8 |
   b8 a8 fis4 r8 e8 fis2 r8 cis8 |
   fis2 r4 fis8 gis8 b8 a8 gis8 fis8 |
+
+  %--- Part 2
+  e4 fis4 a4 a4 b4. fis8 |
+  e4 fis4 a4 a4 b2 |
+  cis4 b4. cis8 a4 b4. cis8 |
+  a4 b4. cis8 a4 b2 |
+  e,4 fis4 a4 a4 b4 gis8 fis8 |
+  e4 fis4 a4 a4 b2 |
+  cis4 b4. cis8 a4 b4. cis8 |
+  a4 b4. cis8 b8 a8 gis8 e4 cis8 |
 }
 
 lhBridge = {
+  %--- Part 1
   fis,4 cis'4 fis4 fis,4 cis'4 fis4 |
   fis,4 cis'4 fis4 b,4 dis4 fis4 |
   fis,4 cis'4 fis4 fis,4 cis'4 fis4 |
@@ -156,6 +168,16 @@ lhBridge = {
   b,4 dis4 fis4 b,4 dis4 fis4 |
   fis,4 cis'4 fis4 fis,4 cis'4 fis4 |
   fis,4 cis'4 fis4 r4 r2 |
+
+  %--- Part 2
+  e,4 b'4 e4 a4 b2 |
+  e,,4 b'4 e4 a4 b2 |
+  cis4 b4 cis4 a4 b4 cis4 |
+  a4 b4 cis4 a4 b2 |
+  e,,4 b'4 e4 a4 b2 |
+  e,,4 b'4 e4 a4 b2 |
+  cis4 b4 cis4 a4 b4 cis4 |
+  a4 b4 cis4 r4 r2 |
 }
 
 
