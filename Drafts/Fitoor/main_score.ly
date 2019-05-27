@@ -126,7 +126,36 @@ lhChorusOne = {
   b,4 e4 gis4 a2. |
   cis,4 fis4 gis4 a4 e'2 |
   b,4 e4 gis4 a2. |
-  cis,4 fis4 a4 <cis, fis a cis>4\marcato r4 r8
+  cis,4 fis4 a4 <cis, fis a cis>4\marcato r2 |
+}
+
+
+
+% ====================
+% Bridge
+% ====================
+
+rhBridge = {
+  cis8 |
+  e8 cis8 e8 fis8~ fis1 |
+  r2 r8 cis'8 b2 r8 a8 |
+  b8 a8 fis4 r8 e8 fis2 r8 cis8 |
+  fis2 r8 fis,8 fis'4 r4 r8 cis8 |
+  e8 cis8 e8 fis8~ fis1 |
+  r4 fis8 gis8 a8 cis8 b2 r8 a8 |
+  b8 a8 fis4 r8 e8 fis2 r8 cis8 |
+  fis2 r4 fis8 gis8 b8 a8 gis8 fis8 |
+}
+
+lhBridge = {
+  fis,4 cis'4 fis4 fis,4 cis'4 fis4 |
+  fis,4 cis'4 fis4 b,4 dis4 fis4 |
+  fis,4 cis'4 fis4 fis,4 cis'4 fis4 |
+  fis,4 cis'4 fis4 fis,4 r2 |
+  fis4 cis'4 fis4 fis,4 cis'4 fis4 |
+  b,4 dis4 fis4 b,4 dis4 fis4 |
+  fis,4 cis'4 fis4 fis,4 cis'4 fis4 |
+  fis,4 cis'4 fis4 r4 r2 |
 }
 
 
@@ -148,6 +177,7 @@ lhChorusOne = {
         \rhIntro
         \rhVerseOne
         \rhChorusOne
+        \rhBridge
       }
 
       >>
@@ -162,6 +192,7 @@ lhChorusOne = {
         \lhIntro
         \lhVerseOne
         \lhChorusOne
+        \lhBridge
       }
     }
   >>
