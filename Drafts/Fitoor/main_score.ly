@@ -156,6 +156,14 @@ rhBridge = {
   e4 fis4 a4 a4 b2 |
   cis4 b4. cis8 a4 b4. cis8 |
   a4 b4. cis8 b8 a8 gis8 e4 cis8 |
+
+  %--- Part 3
+  fis4 fis4\staccato fis'4 e4 cis4 a4 |
+  gis4 gis4\staccato fis'4 e4 cis4 a4 |
+  fis4 fis4\staccato r8 fis'8 e4 cis4. a8 |
+  gis4 gis4\staccato r8 fis'8 e4 cis4. a8 |
+  fis4 fis4 fis4 fis4 fis4 fis4 |
+  cis'8 e8 fis8 a8 fis8 e8 fis4
 }
 
 lhBridge = {
@@ -178,6 +186,14 @@ lhBridge = {
   e,,4 b'4 e4 a4 b2 |
   cis4 b4 cis4 a4 b4 cis4 |
   a4 b4 cis4 r4 r2 |
+
+  %--- Part 3
+  <fis,, fis'>4 <fis fis'>4\staccato r1 |
+  <gis gis'>4 <gis gis'>4\staccato r1 |
+  <fis fis'>4 <fis fis'>1 r4 |
+  <gis gis'>4 <gis gis'>1 r4 |
+  <fis cis' fis>2 <fis cis' fis>4 <fis cis' fis>2 <fis cis' fis>4 |
+  <fis cis' fis>1
 }
 
 
