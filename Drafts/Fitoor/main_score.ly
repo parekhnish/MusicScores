@@ -148,11 +148,11 @@ rhBridge = {
   fis2 r4 fis8 gis8 b8 a8 gis8 fis8 |
 
   %--- Part 2
-  e4 fis4 a4 a4 b4. fis8 |
+  e4 fis4 a4 a4 b4. a16 fis16 |
   e4 fis4 a4 a4 b2 |
-  cis4 b4. cis8 a4 b4. cis8 |
-  a4 b4. cis8 a4 b2 |
-  e,4 fis4 a4 a4 b4 gis8 fis8 |
+  cis4 b4. cis8 a4 b2 |
+  r1 r2 |
+  e,4 fis4 a4 a4 b4. gis16 fis16 |
   e4 fis4 a4 a4 b2 |
   cis4 b4. cis8 a4 b4. cis8 |
   a4 b4. cis8 b8 a8 gis8 e4 cis8 |
@@ -162,7 +162,7 @@ rhBridge = {
   gis4 gis4\staccato fis'4 e4 cis4 a4 |
   fis4 fis4\staccato r8 fis'8 e4 cis4. a8 |
   gis4 gis4\staccato r8 fis'8 e4 cis4. a8 |
-  fis4 fis4 fis4 fis4 fis4 fis4 |
+  fis4 fis4. fis8 fis4 fis4 r4 |
   cis'8 e8 fis8 a8 fis8 e8 fis4
 }
 
@@ -180,19 +180,19 @@ lhBridge = {
   %--- Part 2
   e,4 b'4 e4 a4 b2 |
   e,,4 b'4 e4 a4 b2 |
-  cis4 b4 cis4 a4 b4 cis4 |
+  cis,4 b4 cis4 a4 b4 cis4 |
   a4 b4 cis4 a4 b2 |
+  e,4 b'4 e4 a4 b2 |
   e,,4 b'4 e4 a4 b2 |
-  e,,4 b'4 e4 a4 b2 |
-  cis4 b4 cis4 a4 b4 cis4 |
-  a4 b4 cis4 r4 r2 |
+  cis4 b4 cis4 a4 b2 |
+  r1 r2 |
 
   %--- Part 3
-  <fis,, fis'>4 <fis fis'>4\staccato r1 |
+  <fis, fis'>4 <fis fis'>4\staccato r1 |
   <gis gis'>4 <gis gis'>4\staccato r1 |
   <fis fis'>4 <fis fis'>1 r4 |
   <gis gis'>4 <gis gis'>1 r4 |
-  <fis cis' fis>2 <fis cis' fis>4 <fis cis' fis>2 <fis cis' fis>4 |
+  <fis cis' fis>4 <fis cis' fis>2 <fis cis' fis>4 <fis cis' fis>2 |
   <fis cis' fis>1 r2 |
 }
 
@@ -219,8 +219,8 @@ rhChorusTwo = {
   cis4 fis2 r4 e2 |
   r1 a4 fis4 |
   r1 b2 |
-  r2 cis4 a4 fis2 |
-  <fis a cis>1~ <fis a cis>2 |
+  r2 r8 cis,8 e8 fis8 gis8 a8 cis8 e8 |
+  fis1~ fis2 |
 
 
 }
@@ -242,7 +242,7 @@ lhChorusTwo = {
   b,4 e4 gis4 a2. |
   cis,4 fis4 gis4 a2. |
   b,4 e4 gis4 a2. |
-  <cis, fis cis'>1~ <cis fis cis'>2 |
+  <cis, fis a cis>1~ <cis fis a cis>2 |
 }
 
 
