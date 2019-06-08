@@ -220,7 +220,7 @@ rhChorusTwo = {
   r1 a4 fis4 |
   r1 b2 |
   r2 r8 cis,8 e8 fis8 gis8 a8 cis8 e8 |
-  fis1~ fis2 |
+  fis1~ fis2 \bar "|."
 
 
 }
@@ -242,7 +242,7 @@ lhChorusTwo = {
   b,4 e4 gis4 a2. |
   cis,4 fis4 gis4 a2. |
   b,4 e4 gis4 a2. |
-  <cis, fis a cis>1~ <cis fis a cis>2 |
+  <cis, fis a cis>1~ <cis fis a cis>2 \bar "|."
 }
 
 
