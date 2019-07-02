@@ -72,14 +72,14 @@ rhVerseOne = {
 lhVerseOne = {
   fis,4 cis'4 fis4 e4 gis4 r4 |
   fis,4 cis'4 fis4 b4 e4 r4 |
-  fis,4 gis4 a4 e'4 gis,4 a4 |
-  e4 gis4 a4 e'2. |
-  fis,,4 cis'4 fis4 b4 e4 r4 |
+  fis,,4 cis'4 fis4 gis4 a4 e'4 |
+  e,,4 b'4 e4 gis4 a4 r4 |
+  fis,4 cis'4 fis4 b4 e4 r4 |
   fis,,4 cis'4 fis4 e'4 b4 gis4 |
-  fis4 gis4 a4 e'4 gis,4 a4 |
-  e4 gis4 a4 e'2. |
+  fis,4 cis'4 fis4 gis4 a4 e'4 |
+  e,,4 b'4 e4 gis4 a4 r4 |
 
-  fis,,4 a4 cis4 fis2. |
+  fis,4 a4 cis4 fis2. |
   fis,4 b4 dis4 fis2. |
   b,4 e4 gis4 b4 r8 fis8 gis8 a8 |
   e'1~ e4 r4 |
