@@ -16,14 +16,14 @@
 % ====================
 
 rhIntro = {
-  fis4( a4 cis4 b4 gis4 e4) |
-  fis4( a4 cis4 b4 gis4 fis8 gis8 |
-  a2) gis4 b2 e,4 |
+  fis4 a4 cis4 b4 gis4 e4 |
+  fis4 a4 cis4 b4 gis4 fis8 gis8 |
+  a2 gis4 b2 e,4 |
   fis1. |
   r1 r2 |
-  fis4( a4 cis4 b8 a8 gis8 a8 gis8 e8) |
-  fis4( a4 cis4 b4 a8 gis8 fis8 gis8 |
-  a4) r8 b8 a8 gis8 b4 r8 a8 gis8 e8 |
+  fis4 a4 cis4 b8 a8 gis8 a8 gis8 e8 |
+  fis4 a4 cis4 b4 a8 gis8 fis8 gis8 |
+  a4 r8 b8 a8 gis8 b4 r8 a8 gis8 e8 |
   fis1. |
   r1 r4.
 }
@@ -259,7 +259,7 @@ lhChorusTwo = {
 
     \new Staff = "up" {
       <<
-      \tempo "Waltz" 4 = 140
+      \tempo "Waltz" 4 = 160
       \clef treble
       \key fis \minor
       \time 6/4
