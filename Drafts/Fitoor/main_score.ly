@@ -33,7 +33,7 @@ lhIntro = {
   fis4 cis'4 fis4 e4 b4 gis4 |
   cis,4 fis4 a4 e4 gis4 b4 |
   fis4 gis4 a4 e'2. |
-  fis,4 gis4 a4 e'2. |
+  e,4 gis4 a4 e'2. |
   fis,4 cis'4 fis4 e4 b4 gis4 |
   fis4 cis'4 fis4 e4 b4 gis4 |
   cis,4 fis4 a4 e4 gis4 b4 |
