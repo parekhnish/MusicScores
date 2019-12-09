@@ -6,6 +6,11 @@
  arranger = "Arranged by Nishit Parekh"
 }
 
+\paper {
+  #(set-paper-size "letter")
+}
+
+
 
 % ------------------------------------------------------------------------------
 % NOTES
