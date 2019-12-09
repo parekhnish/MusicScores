@@ -28,6 +28,19 @@ rhIntro = {
   r1 r4.
 }
 
+dynIntro = {
+  s1\mp s2 |
+  s1 s2|
+  s1 s2|
+  s1 s2|
+  s1 s2|
+  s1 s2|
+  s1 s2|
+  s1 s2|
+  s1 s2|
+  s1 s4.
+}
+
 lhIntro = {
   fis,4 cis'4 fis4 e4 b4 gis4 |
   fis4 cis'4 fis4 e4 b4 gis4 |
@@ -39,6 +52,19 @@ lhIntro = {
   cis,4 fis4 a4 e4 gis4 b4 |
   fis4 gis4 a4 e'4 gis,4 a4 |
   e4 gis4 a4 e'4 gis,4 e4 |
+}
+
+pedIntro = {
+  s1\sustainOn s2 |
+  s1\sustainOff\sustainOn s2 |
+  s4\sustainOff s1_\markup { ... } s4 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
 }
 
 
@@ -69,6 +95,27 @@ rhVerseOne = {
 
 }
 
+dynVerseOne = {
+  s8 |
+  s1\mf\> s4\!\mp s4 |
+  s1\> s4\! s4 |
+  s1\mp s2 |
+  s1 s2 |
+  s1\> s4\! s4 |
+  s1\> s4\! s4 |
+  s1\mp s2 |
+  s1\< s4\mf\! s4 |
+
+  s1 s2 |
+  s1\mp s2 |
+  s1\p s2 |
+  s1 s2 |
+  s1\mf s2 |
+  s1\mf s2 |
+  s1 s8 s8\> s4 |
+  s2 s4 s4\!\p
+}
+
 lhVerseOne = {
   fis,4 cis'4 fis4 e4 gis4 r4 |
   fis,4 cis'4 fis4 b4 e4 r4 |
@@ -87,6 +134,26 @@ lhVerseOne = {
   b,4 dis4 fis4 b4 fis4 dis4|
   e4 gis4 b4 r4 r8 fis8 gis8 a8 |
   e'1
+}
+
+pedVerseOne = {
+  s1\sustainOn s2 |
+  s1\sustainOff\sustainOn s2 |
+  s4\sustainOff s1_\markup { ... } s4|
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1
 }
 
 
@@ -112,6 +179,23 @@ rhChorusOne = {
   fis2 fis4 fis4\marcato r4 r8
 }
 
+dynChorusOne = {
+  s2 |
+  s1\p s2 |
+  s1 s2 |
+  s1\mp s2 |
+  s1 s2 |
+  s1\mf s2 |
+  s1\mp s2 |
+  s1\p s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s2\< s4 s4\!\f s4 s8
+}
+
 lhChorusOne = {
   r2 |
   fis,,4 cis'4 fis4 a2. |
@@ -127,6 +211,23 @@ lhChorusOne = {
   cis,4 fis4 gis4 a2. |
   b,4 e4 gis4 a2. |
   cis,4 fis4 a4 <cis, fis a cis>4\marcato r2 |
+}
+
+pedChorusOne = {
+  s2 |
+  s1\sustainOn s2 |
+  s1\sustainOff\sustainOn s2 |
+  s4\sustainOff s1_\markup { ... } s4|
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s2\sustainOn s4 s4\sustainOff s2 |
 }
 
 
@@ -154,7 +255,7 @@ rhBridge = {
   r1 r2 |
   e,4 fis4 a4 a4 b4. gis16 fis16 |
   e4 fis4 a4 a4 b2 |
-  cis4 b4. cis8 a4 b4. cis8 |
+  cis8 b8 cis8 d8 cis8 b8 a4 b4. cis8 |
   a4 b4. cis8 b8 a8 gis8 e4 cis8 |
 
   %--- Part 3
@@ -164,6 +265,34 @@ rhBridge = {
   gis4 gis4\staccato r8 fis'8 e4 cis4. a8 |
   fis4 fis4 fis4 fis4 fis4 fis4 |
   cis'8 e8 fis8 a8 fis8 e8 fis4
+}
+
+dynBridge = {
+  s8 |
+  s1\>\f s2 |
+  s1 s4 s4\!\p |
+  s1\>\f s2 |
+  s2 s4 s4\! s2 |
+  s1\f s2 |
+  s1\f s2 |
+  s1\>\mf s2 |
+  s2 s4\!\mp s2 s4 |
+
+  s1\mf s2 |
+  s1 s2 |
+  s2 s4 s2\> s4 |
+  s1 s2\!\p |
+  s1\mf s2 |
+  s1 s2 |
+  s2 s4 s2\> s4 |
+  s4 s4\! s1\< |
+
+  s1\!\f s2 |
+  s1\f s2 |
+  s1\p s2 |
+  s1\p s2 |
+  s1\< s2 |
+  s1\!\f
 }
 
 lhBridge = {
@@ -188,12 +317,39 @@ lhBridge = {
   r1 r2 |
 
   %--- Part 3
-  <fis, fis'>4 <fis fis'>4\staccato r1 |
-  <gis gis'>4 <gis gis'>4\staccato r1 |
+  <fis, fis'>4\accent <fis fis'>4\staccato r1 |
+  <gis gis'>4\accent <gis gis'>4\staccato r1 |
   <fis fis'>4. <fis fis'>8~ <fis fis'>1 |
   <gis gis'>4. <gis gis'>8~ <gis gis'>1 |
   <fis fis'>4 <fis fis'>4 <fis fis'>4 <fis fis'>4 <fis fis'>4 <fis fis'>4 |
   <fis cis' fis>1 r2 |
+}
+
+pedBridge = {
+  s1\sustainOn s2 |
+  s1\sustainOff\sustainOn s2|
+  s1\sustainOff\sustainOn s2 |
+  s1 s2 |
+  s4\sustainOff s1_\markup { ... } s4|
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+
+  s1\sustainOn s4\sustainOff s4 |
+  s1\sustainOn s4\sustainOff s4 |
+  s1\sustainOn s2 |
+  s1 s2 |
+  s4\sustainOff s1_\markup { ... } s4|
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+
+  s4\sustainOn s4\sustainOff s1 |
+  s4\sustainOn s4\sustainOff s1 |
+  s1\sustainOn s2 |
+  s1\sustainOff\sustainOn s2 |
+  s1\sustainOff\sustainOn s2 |
+  s1 s4 s4\sustainOff |
 }
 
 
@@ -225,11 +381,33 @@ rhChorusTwo = {
   <fis cis' fis>1~ <fis cis' fis>2 \bar "|."
 }
 
+dynChorusTwo = {
+  s2 |
+  s1\f s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1\f s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1\mf s2 |
+  s1 s2 |
+  s1\mp s2 |
+  s1 s2 |
+  s1\p s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1\mp s2 |
+  s1\p s2 |
+}
+
 lhChorusTwo = {
   fis4 cis'8 fis8 a8 cis8 fis2 r4 |
   e,,4 b'8 e8 gis8 b8 e2 r4 |
   a,,4 cis4 e4 a4 e4 cis4 |
-  b4 dis4 fis4 b4. <b, dis fis b>4. |
+  b4 dis4 fis4 <b, dis fis b>4. <b dis fis b>4. |
   fis4 cis'8 fis8 a8 cis8 fis2 r4 |
   e,,4 b'8 e8 gis8 b8 e2 r4 |
   a,,4 cis4 e4 a4 e4 cis4 |
@@ -246,6 +424,27 @@ lhChorusTwo = {
   \override TextSpanner.bound-details.left.text = "rallentando"
   \arpeggioArrowUp <cis, fis a cis>1\arpeggio _\startTextSpan r2 |
   <cis fis cis'>1~ <cis fis cis'>2 _\stopTextSpan \bar "|."
+}
+
+pedChorusTwo = {
+  s1\sustainOn s2 |
+  s1\sustainOff\sustainOn s2 |
+  s4\sustainOff s1_\markup { ... } s4|
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1 s2 |
+  s1\sustainOn s2 |
 }
 
 
@@ -275,6 +474,14 @@ lhChorusTwo = {
       >>
     }
 
+    \new Dynamics {
+      \dynIntro
+      \dynVerseOne
+      \dynChorusOne
+      \dynBridge
+      \dynChorusTwo
+    }
+
     \new Staff = "down" {
       \clef bass
       \key fis \minor
@@ -287,6 +494,15 @@ lhChorusTwo = {
         \lhBridge
         \lhChorusTwo
       }
+    }
+
+    \new Dynamics {
+      \set pedalSustainStyle = #'mixed
+      \pedIntro
+      \pedVerseOne
+      \pedChorusOne
+      \pedBridge
+      \pedChorusTwo
     }
   >>
 }
