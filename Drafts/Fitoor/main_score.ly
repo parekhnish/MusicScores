@@ -463,7 +463,7 @@ pedChorusTwo = {
 
     \new Staff = "up" {
       <<
-      \tempo "Waltz" 4 = 160
+      \tempo "Waltz" 4 = 152
       \clef treble
       \key fis \minor
       \time 6/4
