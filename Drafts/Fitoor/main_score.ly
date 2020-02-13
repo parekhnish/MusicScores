@@ -21,13 +21,13 @@
 % ====================
 
 rhIntro = {
-  fis8 a8 cis8 b8 gis8 e8 |
-  fis8 a8 cis8 b8 gis8 fis16 gis16 |
+  fis8[ a8 cis8 b8 gis8 e8] |
+  fis8[ a8 cis8 b8 gis8] fis16 gis16 |
   a4 gis8 b4 e,8 |
   fis2. |
   r2 r4 |
   fis8 a8 cis8 b16 a16 gis16 a16 gis16 e16 |
-  fis8 a8 cis8 b8 a16 gis16 fis16 gis16 |
+  fis8[ a8 cis8 b8] a16 gis16 fis16 gis16 |
   a8 r16 b16 a16 gis16 b8 r16 a16 gis16 e16 |
   fis2. |
   r2 r8.
@@ -47,15 +47,15 @@ dynIntro = {
 }
 
 lhIntro = {
-  fis,8 cis'8 fis8 e8 b8 gis8 |
-  fis8 cis'8 fis8 e8 b8 gis8 |
+  fis,8[ cis'8 fis8 e8 b8 gis8] |
+  fis8[ cis'8 fis8 e8 b8 gis8] |
   cis,8 fis8 a8 e8 gis8 b8 |
-  fis8 gis8 a8 e'8 gis,8 a8 |
+  fis8[ gis8 a8 e'8] gis,8 a8 |
   e8 gis8 a8 e'4. |
-  fis,8 cis'8 fis8 e8 b8 gis8 |
-  fis8 cis'8 fis8 e8 b8 gis8 |
+  fis,8[ cis'8 fis8 e8 b8 gis8] |
+  fis8[ cis'8 fis8 e8 b8 gis8] |
   cis,8 fis8 a8 e8 gis8 b8 |
-  fis8 gis8 a8 e'8 gis,8 a8 |
+  fis8[ gis8 a8 e'8] gis,8 a8 |
   e8 gis8 a8 e'8 gis,8 e8 |
 }
 
@@ -80,23 +80,23 @@ pedIntro = {
 
 rhVerseOne = {
   cis16 |
-  a'4 a8 gis8 b8 r16 a32 gis32 |
-  a4 a8 gis8 b16 a16 gis16 e16 |
+  a'4 a8[ gis8 b8] r16 a32 gis32 |
+  a4 a8[ gis8] b16 a16 gis16 e16 |
   fis4 r16 fis16 fis4. |
   r2 r8. cis16 |
-  a'4 a8 gis8 b8 r16 a32 gis32|
-  a4 a8 gis8 b16 a16 gis16 e16 |
-  fis4 r16 fis16 fis8 gis16 a16 gis16 a16 |
+  a'4 a8[ gis8 b8] r16 a32 gis32|
+  a4 a8[ gis8] b16 a16 gis16 e16 |
+  fis4 r16 fis16[ fis8] gis16 a16 gis16 a16 |
   gis8. a16 gis16 a16 gis4 e8|
 
-  fis8 fis8 cis'8 b8 a8. fis16 |
+  fis8[ fis8 cis'8 b8 a8. fis16] |
   fis8 fis8 r16 cis'16 b8 a8. b16 |
   b8 b8. b16 e,8 fis4 |
   r8 fis16 gis16 a8 e'4 e,8 |
-  fis8 fis8 cis'8 b8 a8. fis16 |
+  fis8[ fis8 cis'8 b8 a8. fis16] |
   fis8 fis8 r16 b32 cis32 b8 a8. b16 |
   b8 b8. b16 e,8 fis4 |
-  r8 fis8 gis8 a8
+  r8 fis8[ gis8 a8
 
 }
 
@@ -122,18 +122,18 @@ dynVerseOne = {
 }
 
 lhVerseOne = {
-  fis,8 cis'8 fis8 e8 gis8 r8 |
-  fis,8 cis'8 fis8 b8 e8 r8 |
-  fis,,8 cis'8 fis8 gis8 a8 e'8 |
-  e,,8 b'8 e8 gis8 a8 r8 |
-  fis,8 cis'8 fis8 b8 e8 r8 |
-  fis,,8 cis'8 fis8 e'8 b8 gis8 |
-  fis,8 cis'8 fis8 gis8 a8 e'8 |
-  e,,8 b'8 e8 gis8 a8 r8 |
+  fis,8_[ cis'8 fis8 e8 gis8] r8 |
+  fis,8[ cis'8 fis8 b8 e8] r8 |
+  fis,,8[ cis'8 fis8 gis8 a8 e'8] |
+  e,,8_[ b'8 e8 gis8 a8] r8 |
+  fis,8[ cis'8 fis8 b8 e8] r8 |
+  fis,,8[ cis'8 fis8 e'8] b8 gis8 |
+  fis,8[ cis'8 fis8 gis8 a8 e'8] |
+  e,,8_[ b'8 e8 gis8 a8] r8 |
 
   fis,8 cis'8 fis2 |
   fis,8 b8 dis8 fis4. |
-  b,8 e8 gis8 b8 r16 fis16 gis16 a16 |
+  b,8[ e8 gis8 b8] r16 fis16 gis16 a16 |
   e'2~ e8 r8 |
   fis,,8 cis'8 fis8 fis,8 cis'8 fis8 |
   b,8 dis8 fis8 b8 fis8 dis8|
@@ -168,7 +168,7 @@ pedVerseOne = {
 % ====================
 
 rhChorusOne = {
-  cis8 e8 |
+  cis8 e8] |
   fis4 fis8 fis8 e8. cis16 |
   b4. r8 a8 b8 |
   e8 cis8. b16 e8 cis8. b32 cis32 |
@@ -176,11 +176,11 @@ rhChorusOne = {
   fis4~ fis16 gis16 a16 gis16 fis16 e16 d16 cis16 |
   b4. r8 a8 b8 |
   e8 cis8. b16 e8 cis8. b32 a32 |
-  b4~ b16 cis16 b16 a16 gis16 a16 gis16 e16 |
+  b4~ b16 cis16[ b16 a16 gis16 a16 gis16 e16] |
   cis8 fis4 r8 e4 |
   r2 a8. fis16 |
   r2 b4 |
-  r4 cis8 a8 fis8. e16 |
+  r4 cis8[ a8 fis8. e16] |
   fis4 fis8 fis8\marcato r8 r16
 }
 
@@ -207,9 +207,9 @@ lhChorusOne = {
   e,8 b'8 e8 gis4. |
   a,8 e'8 a8 cis4. |
   b,8 dis8 fis8 b4. |
-  fis,8 cis'8 fis8 a8 cis8 fis8 |
-  e,,8 b'8 e8 gis8 b8 e8 |
-  a,,8 cis8 e8 a8 e8 cis8 |
+  fis,8[ cis'8 fis8 a8 cis8 fis8] |
+  e,,8[ b'8 e8 gis8 b8 e8] |
+  a,,8[ cis8 e8 a8 e8 cis8] |
   e8 gis8 b8 e4. |
   cis,8 fis8 gis8 a4. |
   b,8 e8 gis8 a4. |
@@ -254,22 +254,22 @@ rhBridge = {
   fis4 r8 fis16 gis16 b16 a16 gis16 fis16 |
 
   %--- Part 4
-  e8 fis8 a8 a8 b8\staccato r16 a32 fis32 |
-  e8 fis8 a8 a8 b8\staccato r16 cis16 |
+  e8[ fis8 a8 a8 b8\staccato] r16 a32 fis32 |
+  e8[ fis8 a8 a8 b8\staccato] r16 cis16 |
   cis8 b8. cis16 a8 b4 |
   r2 r4 |
-  e,8 fis8 a8 a8 b8\staccato r16 gis32 fis32 |
-  e8 fis8 a8 a8 b8\staccato r16 cis16 |
-  cis16 b16 cis16 d16 cis16 b16 a8 b8. cis16 |
-  a8 b8. cis16 b16 a16 gis16 e8 cis16 |
+  e,8[ fis8 a8 a8 b8\staccato] r16 gis32 fis32 |
+  e8[ fis8 a8 a8 b8\staccato] r16 cis16 |
+  cis16 b16 cis16 d16 cis16 b16 a8[ b8.] cis16 |
+  a8 b8. cis16[ b16 a16 gis16 e8] cis16 |
 
   %--- Part 3
-  fis8 fis8\staccato r16 fis'16 e8 cis8. a16 |
-  gis8 gis8\staccato r16 fis'16 e8 cis8. a16 |
-  fis8 fis8\staccato r16 fis'16 e8 cis8. a16 |
-  gis8 gis8\staccato r16 fis'16 e8 cis8. a16 |
-  fis8 fis8 fis8 fis8 fis8 fis8 |
-  cis'16 e16 fis16 a16 fis16 e16 fis8
+  fis8 fis8\staccato r16 fis'16[ e8 cis8.] a16 |
+  gis8 gis8\staccato r16 fis'16[ e8 cis8.] a16 |
+  fis8 fis8\staccato r16 fis'16[ e8 cis8.] a16 |
+  gis8 gis8\staccato r16 fis'16[ e8 cis8.] a16 |
+  fis8[ fis8 fis8 fis8 fis8 fis8] |
+  cis'16[ e16 fis16 a16 fis16 e16] fis8
 }
 
 dynBridge = {
@@ -303,21 +303,21 @@ dynBridge = {
 lhBridge = {
   %--- Part 2
   fis,8 cis'8 fis8 fis,8 cis'8 fis8 |
-  fis,8 cis'8 fis8 b,8 dis8 fis8 |
+  fis,8 cis'8 fis8 b,8^[ dis8 fis8] |
   fis,8 cis'8 fis8 fis,8 cis'8 fis8 |
   fis,8 cis'8 fis8 fis,8 r4 |
   fis8 cis'8 fis8 fis,8 cis'8 fis8 |
-  b,8 dis8 fis8 b,8 dis8 fis8 |
+  b,8^[ dis8 fis8] b,8^[ dis8 fis8] |
   fis,8 cis'8 fis8 fis,8 cis'8 fis8 |
   fis,8 cis'8 fis8 r8 r4 |
 
   %--- Part 4
-  e,8 b'8 e8 a8 b8\staccato r8 |
-  e,,8 b'8 e8 a8 b8\staccato r8 |
+  e,8_[ b'8 e8 a8 b8\staccato] r8 |
+  e,,8_[ b'8 e8 a8 b8\staccato] r8 |
   cis8 b8 cis8 a8 b8 r16 cis,16 |
-  a8 b8. cis16 a8 b4 |
-  e,8 b'8 e8 a8 b8\staccato r8 |
-  e,,8 b'8 e8 a8 b8\staccato r8 |
+  a8[ b8.] cis16 a8 b4 |
+  e,8_[ b'8 e8 a8 b8\staccato] r8 |
+  e,,8_[ b'8 e8 a8 b8\staccato] r8 |
   cis8 b8 cis8 a8 b4 |
   r2 r4 |
 
@@ -326,7 +326,7 @@ lhBridge = {
   <gis gis'>8\accent <gis gis'>8\staccato r2 |
   <fis fis'>8. <fis fis'>16~ <fis fis'>2 |
   <gis gis'>8. <gis gis'>16~ <gis gis'>2 |
-  <fis fis'>8 <fis fis'>8 <fis fis'>8 <fis fis'>8 <fis fis'>8 <fis fis'>8 |
+  <fis fis'>8[ <fis fis'>8 <fis fis'>8 <fis fis'>8 <fis fis'>8 <fis fis'>8] |
   <fis cis' fis>2 r4 |
 }
 
@@ -364,23 +364,23 @@ pedBridge = {
 % ====================
 
 rhChorusTwo = {
-  cis8 e8 |
+  cis8[ e8] |
   fis4. r8 e8. cis16 |
   b4. r8 a8 b8 |
   e8 cis8. b16 e8 cis8. b32 cis32 |
   dis4~ dis16 dis16 dis8 cis8. e16 |
-  fis4~ fis16 gis16 a16 gis16 fis16 e16 d16 cis16 |
-  b4 r16 b16 cis16 d16 cis16 b16 a16 b16 |
+  fis4~ fis16 gis16[ a16 gis16 fis16 e16 d16 cis16] |
+  b4 r16 b16[ cis16 d16 cis16 b16 a16 b16] |
   e8 cis8. b16 e8 cis8. b32 cis32 |
   dis4. r8 cis8 e8 |
   fis4~ fis16 fis16 fis8 e8. cis16 |
-  b4 r16 b16 cis16 d16 cis16 b16 a16 b16 |
+  b4 r16 b16[ cis16 d16 cis16 b16 a16 b16] |
   e8 cis8. b16 e8 cis8. b32 a32 |
-  b4~ b16 cis16 b16 a16 gis16 a16 gis16 e16 |
+  b4~ b16 cis16[ b16 a16 gis16 a16 gis16 e16] |
   cis8 fis4 r8 e4 |
   r2 a8. fis16 |
   r2 b4 |
-  r4 r16 cis,16 e16 fis16 gis16 a16 cis16 e16 |
+  r4 r16 cis,16[ e16 fis16 gis16 a16 cis16 e16] |
 
   \arpeggioArrowUp <e a e'>2\arpeggio r4 |
   <fis cis' fis>2~ <fis cis' fis>4 \bar "|."
@@ -409,16 +409,16 @@ dynChorusTwo = {
 }
 
 lhChorusTwo = {
-  fis8 cis'16 fis16 a16 cis16 fis4 r8 |
-  e,,8 b'16 e16 gis16 b16 e4 r8 |
+  fis8 cis'16[ fis16 a16 cis16] fis4 r8 |
+  e,,8 b'16[ e16 gis16 b16] e4 r8 |
   a,,8 cis8 e8 a8 e8 cis8 |
   b8 dis8 fis8 <b, dis fis b>8. <b dis fis b>8. |
-  fis8 cis'16 fis16 a16 cis16 fis4 r8 |
-  e,,8 b'16 e16 gis16 r16 b8 r16 e8 r16 |
+  fis8 cis'16[ fis16 a16 cis16] fis4 r8 |
+  e,,8 b'16[ e16 gis16] r16 b8 r16 e8 r16 |
   a,,8 cis8 e8 a8 e8 cis8 |
   b16 dis16 fis16 b16 dis16 fis16 b4 r8 |
-  fis,,8 cis'8 fis8 a8 cis8 fis8 |
-  e,,8 b'8 e8 gis8 b8 e8 |
+  fis,,8[ cis'8 fis8 a8 cis8 fis8] |
+  e,,8[ b'8 e8 gis8 b8 e8] |
   a,8 cis8 e8 a8 e8 cis8 |
   b8 e8 gis8 r8 r4 |
   cis,,8 fis8 gis8 a4. |
