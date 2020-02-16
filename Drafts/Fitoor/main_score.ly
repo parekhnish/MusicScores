@@ -80,12 +80,12 @@ pedIntro = {
 
 rhVerseOne = {
   cis16 |
-  a'4 a8[ gis8 b8] r16 a32 gis32 |
-  a4 a8[ gis8] b16 a16 gis16 e16 |
+  a'4 a8[ gis8 b8] r8 |
+  a4\mordent a8[ gis8] b16 a16 gis16 e16 |
   fis4 r16 fis16 fis4. |
   r2 r8. cis16 |
-  a'4 a8[ gis8 b8] r16 a32 gis32|
-  a4 a8[ gis8] b16 a16 gis16 e16 |
+  a'4 a8[ gis8 b8] r8|
+  a4\mordent a8[ gis8] b16 a16 gis16 e16 |
   fis4 r16 fis16[ fis8] gis16 a16 gis16 a16 |
   gis8. a16 gis16 a16 gis4 e8|
 
@@ -94,7 +94,7 @@ rhVerseOne = {
   b8 b8. b16 e,8 fis4 |
   r8 fis16 gis16 a8 e'4 e,8 |
   fis8[ fis8 cis'8 b8 a8. fis16] |
-  fis8 fis8 r16 b32 cis32 b8 a8. b16 |
+  fis8 fis8 r8 b8\mordent a8. b16 |
   b8 b8. b16 e,8 fis4 |
   r8 fis8[ gis8 a8
 
