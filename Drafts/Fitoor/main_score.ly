@@ -424,10 +424,11 @@ lhChorusTwo = {
   cis,,8 fis8 gis8 a4. |
   b,8 e8 gis8 a4. |
   cis,8 fis8 gis8 a4. |
-  b,8 e8 gis8 a4. |
 
   \override TextSpanner.bound-details.left.text = "rallentando"
-  \arpeggioArrowUp <cis, fis a cis>2\arpeggio _\startTextSpan r4 |
+
+  b,8 _\startTextSpan e8 gis8 a4. |
+  \arpeggioArrowUp <cis, fis a cis>2\arpeggio r4 |
   <cis fis cis'>2~ <cis fis cis'>4 _\stopTextSpan \bar "|."
 }
 
