@@ -42,8 +42,8 @@ musicEnv = {
   s4\sustainOff s2._\markup { ... }                                      |
 
 
-  cis16^[ fis8 gis8 fis8 eis8 dis8~ dis16] \stemUp cis4 \stemDown        |
-  \stemDown \change Staff	= "up" <cis fis ais>4.~ <cis fis ais>16 <cis eis ais>16~ <cis eis ais>4 <b cis eis gis>4 \stemUp \change Staff = "down" |
+                                  cis16^[ fis8 gis8 fis8           eis8 dis8~ dis16]       \stemUp cis4 \stemDown |
+  \stemDown \change Staff = "up" <cis fis ais>4.~ <cis fis ais>16 <cis eis ais>16~ <cis eis ais>4 <b cis eis gis>4 \stemUp \change Staff = "down" |
   s1                                                                     |
   s4\sustainOn s8. s16\sustainOff \sustainOn s4 s4\sustainOff \sustainOn |
 }
