@@ -46,6 +46,23 @@ musicEnv = {
   \stemDown \change Staff = "up" <cis fis ais>4.~ <cis fis ais>16 <cis eis ais>16~ <cis eis ais>4 <b cis eis gis>4 \stemUp \change Staff = "down" |
   s1                                                                     |
   s4\sustainOn s8. s16\sustainOff \sustainOn s4 s4\sustainOff \sustainOn |
+
+  ais'4~ ais16 gis16 fis16 eis16 <cis fis>4~ <cis fis>16 cis'16 ais16 gis16 |
+  <fis ais dis fis>2 <cis fis ais cis>2 |
+  s1 |
+  s1 |
+
+
+  eis16 fis8 fis8 eis8 dis8 dis8 cis4 gis16 |
+  <cis eis gis b>4.~ <cis eis gis b>16 <b dis fis b>4 <gis b cis eis>4 r16   |
+  s1 |
+  s1 |
+
+
+  ais8 r8 r2. |
+  <ais cis eis>1 |
+  s1 |
+  s1 |
 }
 
 
