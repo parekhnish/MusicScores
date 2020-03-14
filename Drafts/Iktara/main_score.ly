@@ -53,8 +53,8 @@ musicEnv = {
   s2\sustainOff \sustainOn s2\sustainOff \sustainOn                             |
 
 
-  eis16 fis8 fis8 eis8 dis8 dis8 cis4 gis16                                           |
-  <cis eis gis b>4. r16 <b dis fis b>4 <gis b cis eis>4 r16                           |
+  eis16 fis8 fis8 eis8 dis8    dis8 cis4        gis16                                 |
+  <cis eis gis b>2          <b dis fis b>4 <gis b cis eis>4                           |
   s1                                                                                  |
   s4.\sustainOff \sustainOn s16 s4\sustainOff \sustainOn s4\sustainOff \sustainOn s16 |
 
