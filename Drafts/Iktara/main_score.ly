@@ -75,15 +75,15 @@ musicEnv = {
   % Verse 1
   % -------------------------------
 
-  eis8. eis8[ eis8 fis16 eis8.] fis16[ eis16 cis8 ais16] |
-  eis'16 cis16 ais8~ ais2.                               |
+  r8 r16 eis8[ eis8 fis16 eis8.] fis16[ eis16 cis8 ais16] |
+  <ais cis eis>1                               |
   s1 |
   s1 |
 
-  cis8. dis8.     <b dis>8~     <b dis>2 |
-  <gis cis eis>4. <gis b dis>8~ <gis b dis>2  |
+  cis8.           dis8.         <b dis>4                    <b dis>8 <b dis>4 |
+  <ais cis fis>8. <b dis fis>8. <gis b dis>8~ <gis b dis>2|
   s1 |
-  s4.\sustainOn   s8\sustainOff \sustainOn s2 |
+  s8.\sustainOn   s8.\sustainOff \sustainOn s8\sustainOff \sustainOn s2 |
 
 }
 
