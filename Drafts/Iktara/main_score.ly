@@ -75,6 +75,7 @@ musicEnv = {
   % Verse 1
   % -------------------------------
 
+  % === Line 1 ===
   r8 r16 eis8[ eis8 fis16 eis8.] fis16[ eis16 cis8 ais16] |
   <ais cis eis>1                               |
   s1 |
@@ -85,6 +86,38 @@ musicEnv = {
   s1 |
   s8.\sustainOn   s8.\sustainOff \sustainOn s8\sustainOff \sustainOn s2 |
 
+  % === Line 2 ===
+  <cis eis>8. <cis eis>8 <cis eis>8 fis16 <cis eis>8. fis16[ eis16 cis8 ais16] |
+  <gis cis eis>1 |
+  s1 |
+  s1 |
+
+  cis8. b8 ais16 gis8 r16 eis16[ fis16 gis16 ais16 b16 cis16 dis16] |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 3 ===
+  eis8. eis8 eis8 fis16 eis8. fis16[ eis16 cis8 ais16] |
+  r1 |
+  s1 |
+  s1 |
+
+  cis8. dis8 cis16 b16 ais16 gis4 ais16\prall gis16 fis16 eis16 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 4 ===
+  cis16 eis16 fis16 gis16 r16 cis8 b16 ais4 gis16 ais16 b16 ais16 |
+  r1 |
+  s1 |
+  s1 |
+
+  gis8.         <eis b'>8.        <fis ais>8~     <fis ais>2 |
+  <gis b dis>8. <b cis eis gis>8. <ais dis fis>8~ <ais dis fis>2 |
+  s1 |
+  s1 |
 }
 
 
