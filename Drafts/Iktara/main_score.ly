@@ -164,6 +164,47 @@ musicEnv = {
   s1 |
 
 
+
+  % -------------------------------
+  % Chorus 1
+  % -------------------------------
+
+  % === Line 1 ===
+  \stemUp \change Staff = "down" eis8 eis16 gis8 gis16 fis16 eis16 fis8. fis4 r16 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 2 ===
+  eis8 eis16 gis8 gis16 fis16 eis16 fis8 fis4 r8 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 3 ===
+  eis8 eis16 gis8 gis16 eis16 dis16 cis8 cis16 gis'8. gis8 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 4 ===
+  ais8 b16 ais8 gis16 fis16 eis16 fis16 \change Staff = "up" \stemNeutral r4 r8 dis'16 |
+  r2 r16 cis16 fis16 ais16 dis,16 gis16 b16 r16 |
+  s1 |
+  s1 |
+
+  % === Line 5 ===
+  eis8 eis16 gis8 gis16 fis16 eis16 fis8 fis16 ais16[ gis16 b16 ais16 gis16] |
+  <eis, gis cis>8. <eis ais cis>4 r16 <fis ais dis>2 |
+  s1 |
+  s1 |
+
+  % === Line 6 ===
+  fis8 eis16 gis8 \appoggiatura ais32 gis16 fis16 eis16 fis8 fis4 r8 |
+  r1 |
+  s1 |
+  s1 |
+
 }
 
 
