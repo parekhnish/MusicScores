@@ -146,7 +146,7 @@ musicEnv = {
   s1 |
 
   % === Line 8 ===
-  fis8 r8 fis16\prall dis8 cis16 b8 b8 cis8 cis8 |
+  eis8 r8 eis16\prall dis8 cis16 b8 b8 cis8 cis8 |
   r1 |
   s1 |
   s1 |
