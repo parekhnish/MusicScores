@@ -194,14 +194,14 @@ musicEnv = {
   s1 |
 
   % === Line 5 ===
-  eis8 eis16 gis8 gis16 fis16 eis16 fis8 fis16 ais16[ gis16 b16 ais16 gis16] |
-  <eis, gis cis>8. <eis ais cis>4 r16 <fis ais dis>2 |
+  eis8 eis16 gis8 gis16 fis16 eis16 fis8. fis8 ais16 gis16 fis16 |
+  <eis, gis cis>8. <eis ais cis>4 r16 <fis ais cis>2 |
   s1 |
   s1 |
 
   % === Line 6 ===
-  fis8 eis16 gis8 \appoggiatura ais32 gis16 fis16 eis16 fis8 fis4 r8 |
-  r1 |
+  <eis gis>8 <eis gis>16 <gis b>8 <gis b>16 <fis ais>16 <eis gis>16 <fis ais>8. <fis ais>8 eis16 cis16 ais16 |
+  <eis, gis cis>8. <dis gis b>4 r16 <dis fis ais>4. r8 |
   s1 |
   s1 |
 
