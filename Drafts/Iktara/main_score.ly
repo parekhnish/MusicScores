@@ -205,6 +205,32 @@ musicEnv = {
   s1 |
   s1 |
 
+  % === Line 7 ===
+  <b dis>8. <b dis>8. <b dis>16 <ais cis>16 <gis b>8. <gis b>8. r8 |
+  r2 r4 r8 r16 fis16 |
+  s1 |
+  s1 |
+
+  % === Line 7-pause ===
+  r8 r16 gis8. cis4 eis4. |
+  eis8.\noBeam cis8. ais4 eis4. |
+  s1 |
+  s1 |
+
+  % === Line 8 ===
+  gis16 ais16 cis16 ais8 gis16 fis16 eis16 fis16[ ais16 gis16 b16 ais16 gis16 fis16 eis16] |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 8 - continued ===
+  fis1 |
+  r1 |
+  s1 |
+  s1 |
+
+
+
 }
 
 
