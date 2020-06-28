@@ -201,7 +201,7 @@ musicEnv = {
 
   % === Line 6 ===
   <eis gis>8 <eis gis>16 <gis b>8 <gis b>16 <fis ais>16 <eis gis>16 <fis ais>8. <fis ais>8 eis16 cis16 ais16 |
-  <eis, gis cis>8. <dis gis b>4 r16 <dis fis ais>4. r8 |
+  <eis gis cis>8. <dis gis b>4 r16 <dis fis ais>4. r8 |
   s1 |
   s1 |
 
