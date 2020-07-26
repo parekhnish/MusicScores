@@ -219,15 +219,28 @@ musicEnv = {
 
   % === Line 8 ===
   gis16 ais16 cis16 ais8 gis16 fis16 eis16 fis16[ ais16 gis16 b16 ais16 gis16 fis16 eis16] |
+  r2 r4 fis16 ais16 cis16 eis16|
+  s1 |
+  s1 |
+
+
+
+  % -------------------------------
+  % Bridge
+  % -------------------------------
+
+  % === Line 1 ===
+  fis8. fis8. fis4 r16 eis16 \tuplet 3/2 {gis8 fis eis} |
+  fis8. <fis, cis' fis>8. <fis cis' fis>2 r8 |
+  s1 |
+  s1 |
+
+  % === Line 2 ===
+  r1 |
   r1 |
   s1 |
   s1 |
 
-  % === Line 8 - continued ===
-  fis1 |
-  r1 |
-  s1 |
-  s1 |
 
 
 
