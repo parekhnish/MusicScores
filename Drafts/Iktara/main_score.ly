@@ -236,11 +236,46 @@ musicEnv = {
   s1 |
 
   % === Line 2 ===
-  r1 |
+  dis8 cis16 dis8. cis4 r8 cis16\prall b16 ais16 b16 |
   r1 |
   s1 |
   s1 |
 
+  % === Line 3 ===
+  cis8. fis8. fis4 r16 eis16 \tuplet 3/2 {gis8 fis eis} |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 4 ===
+  dis8 cis16 dis8 b8 cis8 r8 cis16[ dis16 eis16 fis16 gis16] |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 5 ===
+  ais4 cis,16 gis'16 fis16 gis4 r16 eis8 fis16 eis16 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 6 ===
+  dis8 cis16 dis8 b8 cis8 r8 cis16[ dis16 eis16 fis16 gis16] |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 7 ===
+  ais8 cis16 gis8 ais8 gis4 r8 r16 fis16 eis16 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 8 ===
+  \tuplet 3/2 4 {dis8 cis dis cis cis ais} fis'2 |
+  r1 |
+  s1 |
+  s1 |
 
 
 
