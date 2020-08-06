@@ -277,6 +277,12 @@ musicEnv = {
   s1 |
   s1 |
 
+  % === Line 9 ===
+  \arpeggioArrowUp <cis fis cis'>1\arpeggio |
+  r1 |
+  s1 |
+  s1 |
+
 
 
 }
