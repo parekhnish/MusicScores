@@ -123,43 +123,43 @@ musicEnv = {
 
   % === Line 5 ===
   fis8 fis8 r16 ais8 ais16 b8 b8 dis8 dis8 |
-  r1 |
+  fis8 cis'8 fis8 ais8 b,8 fis'8 b8 dis8 |
   s1 |
   s1 |
 
   % === Line 6 ===
   r4 fis16\prall dis8 cis16 b8 b8 cis8 cis8 |
-  r1 |
+  eis,8 ais8 cis8 eis8 fis,8 b8 cis8 fis8  |
   s1 |
   s1 |
 
   % === Repeat line 6 ===
-  r8 r16 gis16[ ais16 gis8 fis16] eis8. eis16[ fis16 cis16 ais16 gis16] |
+  r8 r16 gis16[ ais16 gis8 fis16] eis8 eis8 fis16 cis16 ais16 gis16 |
   r1 |
   s1 |
   s1 |
 
   % === Line 7 ===
-  fis8 fis8 r16 ais8 ais16 b8 b8 dis16 gis,16 b16 cis16 |
-  r1 |
+  fis8 fis8 r16 ais8 ais16 b8 b8 dis4 |
+  <fis,,, fis'>4 <fis fis'>4 <b b'>4 r16 gis'16 b16 cis16 |
   s1 |
   s1 |
 
   % === Line 8 ===
   eis8 r8 eis16\prall dis8 cis16 b8 b8 cis8 cis8 |
-  r1 |
+  eis4 r4 <fis, b dis>4 <gis cis fis>4 |
   s1 |
   s1 |
 
   % === Line 9 ===
   r8 eis8[ fis16 dis8 cis16 b8] eis8[ fis16 dis8 cis16] |
-  r1 |
+  <gis cis eis>2 <gis b dis>2 |
   s1 |
   s1 |
 
   % === Line 10 ===
   b8 r16 cis8 cis8 b16 ais8. gis16 b16 ais16 gis16 fis16 |
-  r1 |
+  b16 dis16 fis8 b8 r8 r2 |
   s1 |
   s1 |
 
@@ -189,7 +189,7 @@ musicEnv = {
 
   % === Line 4 ===
   ais8 b16 ais8 gis16 fis16 eis16 fis16 \change Staff = "up" \stemNeutral r4 r8 dis'16 |
-  r2 r16 cis16 fis16 ais16 dis,16 gis16 b16 r16 |
+  r2 r16 cis,16 fis16 ais16 dis,16 gis16 b16 r16 |
   s1 |
   s1 |
 
