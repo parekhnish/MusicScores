@@ -170,26 +170,26 @@ musicEnv = {
   % -------------------------------
 
   % === Line 1 ===
-  \stemUp \change Staff = "down" eis8 eis16 gis8 gis16 fis16 eis16 fis8. fis4 r16 |
+  \stemUp \change Staff = "down" eis8 eis16 gis8 gis16 fis16 eis16 fis8. fis8 ais16 gis16 fis16 |
   r1 |
   s1 |
   s1 |
 
   % === Line 2 ===
   eis8 eis16 gis8 gis16 fis16 eis16 fis8 fis4 r8 |
-  r1 |
+  \stemDown eis,,4 cis4 fis8 ais8 cis8 s8 |
   s1 |
   s1 |
 
   % === Line 3 ===
   eis8 eis16 gis8 gis16 eis16 dis16 cis8 cis16 gis'8. gis8 |
-  r1 |
+  eis,4 gis4 cis,4 gis'4 |
   s1 |
   s1 |
 
   % === Line 4 ===
   ais8 b16 ais8 gis16 fis16 eis16 fis16 \change Staff = "up" \stemNeutral r4 r8 dis'16 |
-  r2 r16 cis,16 fis16 ais16 dis,16 gis16 b16 r16 |
+  <fis ais dis>2 \stemNeutral r16 cis'16 fis16 ais16 dis,16 gis16 b16 r16 |
   s1 |
   s1 |
 
