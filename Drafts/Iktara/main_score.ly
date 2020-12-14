@@ -243,43 +243,43 @@ musicEnv = {
 
   % === Line 3 ===
   cis8. fis8. fis4 r16 eis16 \tuplet 3/2 {gis8 fis eis} |
-  r1 |
+  fis8 cis'8 fis8 cis'8 r2 |
   s1 |
   s1 |
 
   % === Line 4 ===
   dis8 cis16 dis8 b8 cis8 r8 cis16[ dis16 eis16 fis16 gis16] |
-  r1 |
+  r2 cis,16 fis16 b16 r16 r4 |
   s1 |
   s1 |
 
   % === Line 5 ===
   ais4 cis,16 gis'16 fis16 gis4 r16 eis8 fis16 eis16 |
-  r1 |
+  r16 ais16 fis16 cis16 r4 gis'16 eis16 cis16 ais16 r4 |
   s1 |
   s1 |
 
   % === Line 6 ===
   dis8 cis16 dis8 b8 cis8 r8 cis16[ dis16 eis16 fis16 gis16] |
-  r1 |
+  b16 dis16 fis16 b16 r8 r16 cis,16[ eis16 gis16 b16] r16 r4 |
   s1 |
   s1 |
 
   % === Line 7 ===
   ais8 cis16 gis8 ais8 gis4 r8 r16 fis16 eis16 |
-  r1 |
+  <cis, fis ais>8. <cis eis gis>4 <b dis gis>2 r16 |
   s1 |
   s1 |
 
   % === Line 8 ===
   \tuplet 3/2 4 {dis8 cis dis cis cis ais} fis'2 |
-  r1 |
+  <b dis fis>4 <fis ais cis eis>4 ais8. cis8. eis8 |
   s1 |
   s1 |
 
   % === Line 9 ===
   \arpeggioArrowUp <cis fis cis'>1\arpeggio |
-  r1 |
+  \arpeggioArrowUp <ais, dis fis>1\arpeggio |
   s1 |
   s1 |
 
