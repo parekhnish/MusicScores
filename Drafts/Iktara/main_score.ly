@@ -293,25 +293,25 @@ musicEnv = {
 
   % === Line 1 ===
   r8 r16 ais'8 gis8 fis16 eis8 fis8 dis8. b16 |
-  r1 |
+  cis8 fis8 ais8 fis8 cis8 fis8 ais8 fis8 |
   s1 |
   s1 |
 
   % === Line 2 ===
   cis8 r16 ais'8 gis8\prall fis16 eis8 fis4 cis8 |
-  r1 |
+  gis,8 cis8 eis8 cis8 fis,8 cis'8 fis4 |
   s1 |
   s1 |
 
   % === Line 3 ===
   dis8 r16 dis8 dis8 cis16 b8[ b16 dis16 dis8 dis8] |
-  r1 |
+  b,8 dis8 fis8 dis8 b8 dis8 fis8 dis8 |
   s1 |
   s1 |
 
   % === Line 4 ===
   eis8 r16 eis16[ fis16 gis8] eis16 fis8 r16 cis16[ dis16 eis16 fis16 gis16] |
-  r1 |
+  cis8 eis8 gis8 b8 <cis, fis ais>4 r4 |
   s1 |
   s1 |
 
