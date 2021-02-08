@@ -341,7 +341,7 @@ musicEnv = {
 
   % === Line 9 ===
   <cis, e>8. <cis e gis>8. <cis e gis b>4 <cis e gis b>8 <cis e gis b>4 |
-  r1 |
+  <cis e>8.  <cis e gis>8. <cis e gis b>4 <cis e gis b>8 <cis e gis b>4 |
   s1 |
   s1 |
 
@@ -359,7 +359,7 @@ musicEnv = {
 
   % === Line 12 ===
   gis8. <cis, eis gis>8. <cis eis gis>4 gis'4 ais8\prall |
-  r1 |
+  r8 r16 <cis eis gis>8. <cis eis gis>2 r8 |
   s1 |
   s1 |
 
