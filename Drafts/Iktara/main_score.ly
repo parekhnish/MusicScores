@@ -334,7 +334,7 @@ musicEnv = {
   s1 |
 
   % === Line 8 ===
-  eis8 r16 eis16[ fis16 gis8] <eis b'>16 <fis ais>4 cis16 dis16 fis16 gis16 |
+  eis8 r16 eis16[ fis16 gis8] eis16[ fis8] r8 cis16 dis16 fis16 gis16 |
   ais,16 cis16 eis8 gis8 r8 <ais, dis fis>4 r4 |
   s1 |
   s1 |
