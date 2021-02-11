@@ -412,7 +412,7 @@ musicEnv = {
   s1 |
 
   % === Line 5 ===
-  r8 r16 eis8\prall dis8 cis16 b8 b8 cis8 cis8 |
+  r4 eis16\prall dis8 cis16 b8 b8 cis8 cis8 |
   r1 |
   s1 |
   s1 |
@@ -424,7 +424,19 @@ musicEnv = {
   s1 |
 
   % === Line 7 ===
-  b16 ais16 b16 cis8 cis8 b16 ais8. gis16 b16 ais16 gis16 fis16 |
+  b8 eis,8[ fis16 dis8 cis16] b8 \stemUp \change Staff = "down" eis,8[ fis16 dis8 cis16] |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 8 ===
+  b16 ais16 b16 cis8 cis8 b16 ais16 b16 cis16 dis16 eis16 gis16 cis16 dis16 |
+  r1 |
+  s1 |
+  s1 |
+
+  % === Line 9 ===
+  \change Staff = "up" \stemNeutral eis8 eis16 gis8 gis16 fis16 eis16 fis8 r16 fis4 r16  |
   r1 |
   s1 |
   s1 |
