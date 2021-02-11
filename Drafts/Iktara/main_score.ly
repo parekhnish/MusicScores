@@ -388,13 +388,13 @@ musicEnv = {
   % -------------------------------
 
   % === Line 1 ===
-  fis16 cis16 fis,8 r16 ais8 ais16 b8 b8 dis8. cis16 |
-  r1 |
+  fis16 cis16 fis,8 r16 ais8 ais16 b8 b8 dis8 dis8 |
+  r8 r16 <fis,, fis'>16~ <fis fis'>2.  |
   s1 |
   s1 |
 
   % === Line 2 ===
-  eis8 r16 gis16[ fis16 eis16 dis16 cis16] b8 b8 cis8 cis8 |
+  r4 eis16\prall dis8 cis16 b8 b8 cis8 cis8 |
   r1 |
   s1 |
   s1 |
